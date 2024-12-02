@@ -1,0 +1,22 @@
+Total_Downtime,Total Errors,Total Throughput,Avg Downtime by Region,Avg Users by Region,Avg Errors by Region,Average Throughput by Region
+29556,4454,5026138,"Region
+East     28.603448
+North    29.949612
+South    29.765217
+West     29.810714
+Name: Downtime(in min), dtype: float64","Region
+East     531.706897
+North    547.965116
+South    571.991304
+West     522.610714
+Name: Users Connected, dtype: float64","Region
+East     4.551724
+North    4.379845
+South    4.669565
+West     4.264286
+Name: Errors Count, dtype: float64","Region
+East     4987.387931
+North    5052.817829
+South    4992.856522
+West     5061.000000
+Name: Data Throughput(MB), dtype: float64"

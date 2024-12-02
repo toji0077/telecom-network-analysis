@@ -1,0 +1,36 @@
+# Telecom Network Analysis Project
+
+This project focuses on analyzing telecom network performance data using Python and Power BI. The goal is to visualize key metrics and trends to enhance network reliability and efficiency.
+
+## Project Structure
+
+- **Python Scripts**: Scripts for data processing and analysis.
+- **Excel Files**: Generated datasets from Python scripts.
+- **Power BI Dashboard**: Visual representation of the analysis.
+
+## Key Components
+
+1. **Data Processing**: 
+   - Python scripts for data cleaning, transformation, and summarization.
+2. **Visualization**:
+   - Power BI dashboards including scatter plots, bar charts, line charts, and matrices.
+3. **Metrics Analyzed**:
+   - Downtime, error rates, user connections, and data throughput by region and hour.
+
+## How to Run
+
+1. Run the Python scripts to generate datasets.
+2. Use the generated Excel files in Power BI.
+3. Explore the Power BI dashboard for insights.
+
+## Files Included
+
+- `generate_telecom_dataset.py` - Python script to generate the telecom dataset.
+- `telecom_data.csv` - Generated raw telecom data file.
+- `cleaned_telecom_data.csv` - Cleaned dataset with missing values handled and duplicates removed.
+- `telecom_analysis_results.csv` - Summary of key analysis results.
+- `telecom_project.pbix` - Power BI file containing the visual analysis.
+
+## Contact
+
+For questions or feedback, reach out to **Ayush Nautiyal**.
